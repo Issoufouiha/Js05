@@ -5,4 +5,6 @@ function showWords() {
     }
   }
   showWords()
+
+module.exports = showWords
   
